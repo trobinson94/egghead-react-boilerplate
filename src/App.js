@@ -9,6 +9,7 @@ class App extends React.Component {
   };
 
   render() {
+    // throw new Error('boom!');
     return (
       <div>
         <h1>Hello World!!</h1>
